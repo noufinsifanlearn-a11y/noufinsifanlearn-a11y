@@ -1,16 +1,58 @@
-## Hi there 👋
+👋 Hi, I'm Noufin Sifan
 
-<!--
-**noufinsifanlearn-a11y/noufinsifanlearn-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Passionate Cybersecurity Researcher
+💻 Offensive Security Learner | Ethical Hacking Enthusiast
+📍 India
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a dedicated cybersecurity researcher focused on learning and practicing real-world offensive security techniques.
+I enjoy building labs, exploring vulnerabilities, and understanding how systems can be secured by breaking them (ethically).
+
+🎯 Currently learning: Web Security, Active Directory Attacks
+🧠 Interested in: Red Teaming & Penetration Testing
+🛠️ Building: Custom vulnerable labs & login systems
+📚 Background: Psychology student with strong interest in cybersecurity
+
+🧰 Skills & Tools
+
+🔍 Security
+Penetration Testing
+Vulnerability Assessment
+Enumeration & Reconnaissance
+Brute Force Testing (Lab use only)
+
+🛠️ Tools
+Burp Suite
+Nmap
+Wireshark
+Metasploit
+Kerbrute
+John the Ripper
+
+💻 Tech Stack
+PHP
+HTML / CSS
+Linux (Kali Linux)
+Bash
+
+📂 Projects
+🔐 HTTP Login Page Lab
+🧪 Vulnerable Lab Setup
+📡 Enumeration Scripts
+
+👉 https://github.com/noufinsifanlearn-a11y
+
+📊 GitHub Stats
+
+🧠 Learning Journey
+✔️ Networking Basics
+✔️ Linux Fundamentals
+🔄 Web Exploitation
+🔄 Active Directory Security
+⏳ Advanced Red Teaming
+📫 Connect With Me
+
+📧 Email: noufinsifan.learn@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/noufin-sifan-83050539b/
+🐙 GitHub: https://github.com/noufinsifanlearn-a11y
